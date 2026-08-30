@@ -5,4 +5,5 @@ if name.lower() == "ryan gosling":
 elif name.lower() == "fargo":
     print ("you are lying")
 else:
-    print ("ok")
+    print ("fine")
+    
