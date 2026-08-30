@@ -14,3 +14,4 @@ elif medicalclearance.lower() == "yes":
     print ("You have been approved")
 else:
     print("You lack physical fitness or medical clearance")    
+    
